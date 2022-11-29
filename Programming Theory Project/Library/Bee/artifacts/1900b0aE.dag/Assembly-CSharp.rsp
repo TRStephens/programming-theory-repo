@@ -354,6 +354,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/Cube.cs"
 "Assets/Scripts/Cylinder.cs"
+"Assets/Scripts/Menu.cs"
 "Assets/Scripts/Shapes.cs"
 "Assets/Scripts/Sphere.cs"
 -langversion:9.0
